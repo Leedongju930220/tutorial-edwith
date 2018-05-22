@@ -4,7 +4,6 @@
 ### 순서
 + HTTP
 + Request 형식
-+ Request Method
 + Response 형식
 + 응답 코드
 
